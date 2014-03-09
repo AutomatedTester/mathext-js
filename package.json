@@ -1,0 +1,28 @@
+{
+  "name": "mathext-js",
+  "version": "0.1.0",
+  "description": "Maths Extension Methods that I wish were in the Standard Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AutomatedTester/mathext-js.git"
+  },
+  "keywords": [
+    "radians",
+    "degrees",
+    "maths",
+    "math"
+  ],
+  "dependencies": {
+    "mocha": "1.17.1"
+  },
+  "author": "David Burns",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/AutomatedTester/mathext-js/issues"
+  },
+  "homepage": "https://github.com/AutomatedTester/mathext-js"
+}
