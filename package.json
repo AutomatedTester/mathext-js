@@ -20,7 +20,7 @@
     "mocha": "1.17.1"
   },
   "author": "David Burns",
-  "license": "Apache2",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/AutomatedTester/mathext-js/issues"
   },
